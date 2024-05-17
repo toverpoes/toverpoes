@@ -1,10 +1,8 @@
-==   ,Q ,Q       
+==   ,^ ,^.       
 ==  (=' :')     
-==   (,(")(")     
+==  (,(")(")     
 
 - 👋 Hi, I’m @toverpoes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning BA, Vue, Python
 - 📫 Don't reach me
 
 <!---
